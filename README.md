@@ -1,2 +1,3 @@
-###### English/[中文](https://github.com/Dysprosium163/Dysprosium163/blob/main/%E4%B8%AD%E6%96%87README.md)
-### Things I am working right now:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dysprosium163&repo=pitwiki_CS_translation)](https://github.com/anuraghazra/github-readme-stats)
